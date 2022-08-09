@@ -1,0 +1,47 @@
+@font-face {
+    font-family: azn;
+    src: url(jaznr.eot);
+    src: url(jaznr.eot?#iefix) format("embedded-opentype"), url(jaznr.woff) format("woff"), url(jaznr.ttf) format("truetype"), url(jaznr.svg#font-electro) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-Bold.eot");
+    src: url("Averta-Bold.eot?#iefix") format("embedded-opentype"), url("Averta-Bold.woff2") format("woff2"), url("Averta-Bold.woff") format("woff"), url("Averta-Bold.svg#Averta-Bold") format("svg");
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Averta";
+    src: url("Averta-Regular.eot");
+    src: url("Averta-Regular.eot?#iefix") format("embedded-opentype"), url("Averta-Regular.woff2") format("woff2"), url("Averta-Regular.woff") format("woff"),
+        url("Averta-Regular.svg#Averta-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Averta";
+    src: url("Averta-Semibold.eot");
+    src: url("Averta-Semibold.eot?#iefix") format("embedded-opentype"), url("Averta-Semibold.woff2") format("woff2"), url("Averta-Semibold.woff") format("woff"),
+        url("Averta-Semibold.svg#Averta-Semibold") format("svg");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Averta";
+    src: url("Averta-Light.eot");
+    src: url("Averta-Light.eot?#iefix") format("embedded-opentype"), url("Averta-Light.woff2") format("woff2"), url("Averta-Light.woff") format("woff"), url("Averta-Light.svg#Averta-Light") format("svg");
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face{
+    font-family:icomoon;
+    src:url(icomoon.eot?v=9.300981095772405);
+    src:url(icomoon.eot?v=9.300981095772405) 
+    format('embedded-opentype'),url(icomoon.ttf?v=9.300981095772405) 
+    format('truetype'),url(icomoon.woff?v=9.300981095772405) 
+    format('woff'),url(icomoon.svg?v=9.300981095772405) 
+    format('svg');font-weight:400;font-style:normal
+  }
