@@ -392,7 +392,7 @@ header {
     min-height: calc(100vh - 80px);
     margin-bottom: 0px;
     opacity: 0;
-    /* visibility: hidden; */
+
     transition: all 1.2s ease;
     background: url(../img/slider-back.png) no-repeat #F7F5F2 top left;
     background-size: contain;
@@ -515,9 +515,6 @@ header {
     width: auto;
     max-height: calc(100vh - 180px);
     height: auto;
-    /*position: absolute;*/
-    /*bottom: 0;*/
-    /*right: 0;*/
     z-index: 0;
     opacity: 0;
     transition-delay: .5s;
@@ -565,7 +562,6 @@ body {
     cursor: pointer;
     border: none;
     box-shadow: none;
-    /* vertical-align: middle; */
     font-size: 0;
     color: transparent;
     line-height: 0;
@@ -750,7 +746,6 @@ body {
 
 /* reviews */
 #reviews {
-    /*background-color: #f5f6f8;*/
     padding: 100px 80px;
 }
 
@@ -861,7 +856,6 @@ body {
 }
 
 #our-work {
-    /*background-color: #f5f6f8;*/
     padding: 100px 80px;
 }
 
@@ -878,7 +872,6 @@ body {
     content: '';
     width: 110%;
     height: 2px;
-    /*background-color: rgba(86,180,140,0.8);*/
     background-color: #e94247cc;
     display: block;
     position: absolute;
@@ -922,7 +915,6 @@ body {
 .step .img-wrap .circle {
     width: 30px;
     height: 30px;
-    /*background-color: #56b48c;*/
     background-color: #e94247;
     border-radius: 50%;
     color: white;
